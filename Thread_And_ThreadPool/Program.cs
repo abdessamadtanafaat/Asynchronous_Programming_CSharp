@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+﻿/*using System.Diagnostics;
 
 namespace Asynchronous_Programming_CSharp;
 
@@ -60,4 +60,4 @@ public class Program
         var data = _weatherService.FetchWeatherData(); 
         Console.WriteLine("Data fetched successfully.");
     }
-}
+}*/
